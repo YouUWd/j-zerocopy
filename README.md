@@ -16,3 +16,7 @@ dd if=/dev/zero of=f3.txt bs=1m count=20 seek=1000
 
 ### TODO
 性能测试
+
+
+### 参考文档
+https://developer.ibm.com/zh/articles/j-zerocopy/
